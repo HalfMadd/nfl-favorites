@@ -2,9 +2,9 @@
 
 Le Superbowl approchant et un Thanksgiving difficile, j'ai souhaité étudier les données statistiques du sport qui me touche selon les fans avant de voir l'expérience américaine de leur sport, voir le lien entre certaines données ou au contraire le parti pris de certains
 
-Lien de sources de données: https://datastudio.google.com/datasources/3f39d2ab-e2bd-4884-95aa-9977950d8008
+##Lien de sources de données: https://datastudio.google.com/datasources/3f39d2ab-e2bd-4884-95aa-9977950d8008
 
-Explications des colonnes:
+##Explications des colonnes:
 
 Fan relations - La courtoisie des joueurs, des entraîneurs et des bureaux d'accueil envers les supporters, et la façon dont une équipe utilise la technologie pour les atteindre
 
