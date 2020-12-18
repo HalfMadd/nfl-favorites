@@ -37,3 +37,5 @@ Le Superbowl approchant et un Thanksgiving difficile, j'ai souhaité étudier le
 **Uniform** - Le style de l'uniforme, selon Paul Lukas d'Uni Watch              
 
 **Big Market** - Taille du marché en termes de population, où plus c'est grand, mieux c'est
+
+### Lien d'astuces: https://www.cartelis.com/blog/modeles-rapports-google-data-studio/
