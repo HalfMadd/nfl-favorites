@@ -4,6 +4,8 @@ Le Superbowl approchant et un Thanksgiving difficile, j'ai souhaité étudier le
 
 Lien de sources de données: https://datastudio.google.com/datasources/3f39d2ab-e2bd-4884-95aa-9977950d8008
 
+Explications des colonnes:
+
 Fan relations - La courtoisie des joueurs, des entraîneurs et des bureaux d'accueil envers les supporters, et la façon dont une équipe utilise la technologie pour les atteindre
 
 Ownership - Honnêteté ; loyauté envers les principaux acteurs et la communauté 
